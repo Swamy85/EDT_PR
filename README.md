@@ -49,14 +49,3 @@ To design and implement a cost-effective embedded system that prevents a vehicle
 
 ---
 
-## 📂 Repository Contents
-
-```bash
-├── 📄 Abstract.pdf
-├── 📘 Project_Report.pdf
-├── 📊 Presentation_Slides.pptx
-├── 📈 Block_Diagram.png
-├── 🔌 Circuit_Explanation.txt
-├── 🧾 Component_Description.pdf
-├── 📚 References.txt
-└── 📁 Arduino_Code (optional folder for source code)
